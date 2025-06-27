@@ -1,5 +1,17 @@
 langchain
+langchain-experimental
 langgraph
 langchain-groq
 python-dotenv
 langchain-community
+fastapi
+streamlit
+uvicorn
+pydantic
+httpx
+requests
+langchain_google_community
+langchain_tavily
+
+
+-e .
